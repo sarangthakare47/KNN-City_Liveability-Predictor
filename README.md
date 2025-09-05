@@ -28,7 +28,7 @@ In this project, KNN helps determine if a city is "Worth Living" by comparing it
 ✅ Save & Load Model with Joblib
 ✅ Function to Predict Worth Living status for new cities
 
-To run this you can Clone this Repository
+To run this you can Clone this Repository & Run the Model
 
 🧑‍💻 Tech Stack
 
