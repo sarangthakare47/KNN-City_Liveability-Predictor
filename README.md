@@ -38,6 +38,4 @@ Pandas, NumPy (Data Processing)
 
 Scikit-learn (KNN, Preprocessing, Model Evaluation)
 
-Joblib (Model Saving/Loading)
-
 By - Sarang A Thakare
